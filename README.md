@@ -23,8 +23,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 O projetoPortfolio é um agregador de links para usar como cartão de visitas online. Este projeto foi usado exclusivamente para me agregar conhecimento o qual realizei através da disponibilização da Rocketseat, que fornece gratuitamente com o nome de Discover.
-Com a finalização deste curso, obtive uma melhora no desenvolvimento do projeto, apresentar meu portfólio através do mesmo. 
-
-## :memo: Licença
-
-Esse projeto está sob a licença MIT.
+Com a finalização deste curso, obtive uma melhora no desenvolvimento do projeto, apresentar meu portfólio através do mesmo.
