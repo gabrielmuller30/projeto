@@ -11,6 +11,6 @@ function toggleMode() {
     img.setAttribute("src", "./assets/gaab__light.jpg")
   } else {
     // se tiver sem light mode, manter a imagem normal
-    img.setAttribute("src", "./assets/gaab__dark.jpg")
+    img.setAttribute("src", "./assets/eu_dark.png")
   }
 }
